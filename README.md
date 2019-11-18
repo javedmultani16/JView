@@ -20,3 +20,9 @@ Customise it as your requirements by using its properties
 **OR**
 
 You can do it programmatically like:
+
+<img width="1031" alt="Screenshot 2019-11-18 at 12 39 03 PM" src="https://user-images.githubusercontent.com/16849127/69025155-da7b1a80-0a00-11ea-80bc-cb4dfe7b29d3.png">
+
+**Examples:
+
+<img width="369" alt="Screenshot 2019-11-18 at 12 41 51 PM" src="https://user-images.githubusercontent.com/16849127/69025154-da7b1a80-0a00-11ea-9e8d-65fb6abb8800.png">
